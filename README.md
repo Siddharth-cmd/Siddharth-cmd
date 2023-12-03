@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 I'm a passionate full-stack developer with expertise in **Flutter**, **Rust**, **Go**, and **Python**.
+👨‍💻 I'm a passionate full-stack developer with expertise in **Flutter**, **Rust**, **Tensorflow**, and **Python**.
 
 🌱 I love creating innovative applications that solve real-world problems, and I'm always on the lookout for challenging projects.
 
@@ -12,11 +12,11 @@
 
 ## 🛠 Skills
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 - **Flutter**: Expert in building visually appealing and responsive mobile applications. Skilled in both Dart and Flutter framework.
 - **Rust**: Proficient in developing safe and efficient software with Rust. Comfortable with concurrency and system level programming.
-- **Go**: Experienced in building scalable and high-performance web services and APIs.
+- **Tensorflow**: Experienced in building and deploying machine learning models using TensorFlow.
 - **Python**: Skilled in scripting, automation, and data analysis. Familiar with Django and Flask frameworks.
 
 ## 🔥 Projects
