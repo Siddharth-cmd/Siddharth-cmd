@@ -23,7 +23,7 @@
 
 - [Chat-GPT Clone](https://github.com/Siddharth-cmd/chat-gpt-clone) - This is a chat application built using the Flutter framework, which allows you to have conversations with ChatGPT, a large language model trained by OpenAI.
 
-- [What's App Clone](https://github.com/Siddharth-cmd/whatsAppUIClone) - This is a UI clone of the popular messaging app WhatsApp, built using the Flutter framework. The goal of this project is to provide a visually appealing and functional UI for a messaging application, similar to WhatsApp.
+- [Breast Cancer Classification](https://github.com/Siddharth-cmd/Breast-Cancer-Classification-Model) - The main goal of this project is to develop a reliable and accurate model for breast cancer classification.
 
 ## 📫 How to Reach Me 
 
